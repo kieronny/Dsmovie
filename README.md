@@ -4,7 +4,7 @@
 Curso de criação de página de avaliação de filmes em react com integração ao backend no reroku.
 
 ## Imagens
-[altText!](https://github.com/kieronny/Dsmovie/blob/main/Capturar.PNG)
+![alt text](https://github.com/kieronny/Dsmovie/blob/main/Capturar.PNG)
 
 ## Ministrado por
 
