@@ -2,6 +2,7 @@
 ## Semana Spring React, FullStack
 
 [![N|heroku](https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku-1900x802_c.png)](https://id.heroku.com/login)
+[![N|netlify](https://ericmckinney.net/post/hello-world/hello-world/Netlify.png)
 
 
 Curso de criação de página de avaliação de filmes em react com integração ao backend no reroku.
