@@ -1,10 +1,6 @@
 # DSMovie
 ## Semana Spring React, FullStack
 
-[![N|heroku](https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku-1900x802_c.png){:height="36px" width="36px"}(https://id.heroku.com/login)]
-[![N|netlify](https://ericmckinney.net/post/hello-world/hello-world/Netlify.png){ width=50% }]
-
-
 Curso de criação de página de avaliação de filmes em react com integração ao backend no reroku.
 
 ## Imagens
